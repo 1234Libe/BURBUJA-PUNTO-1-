@@ -1,0 +1,13 @@
+C:\Users\Elibeth Tapia Cruz\source\repos\BURBUJA, PUNTO 1\BURBUJA, PUNTO 1\bin\Debug\BURBUJA, PUNTO 1.exe.config
+C:\Users\Elibeth Tapia Cruz\source\repos\BURBUJA, PUNTO 1\BURBUJA, PUNTO 1\bin\Debug\BURBUJA, PUNTO 1.exe
+C:\Users\Elibeth Tapia Cruz\source\repos\BURBUJA, PUNTO 1\BURBUJA, PUNTO 1\bin\Debug\BURBUJA, PUNTO 1.pdb
+C:\Users\Elibeth Tapia Cruz\source\repos\BURBUJA, PUNTO 1\BURBUJA, PUNTO 1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Elibeth Tapia Cruz\source\repos\BURBUJA, PUNTO 1\BURBUJA, PUNTO 1\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Elibeth Tapia Cruz\source\repos\BURBUJA, PUNTO 1\BURBUJA, PUNTO 1\obj\Debug\BURBUJA, PUNTO 1.csprojAssemblyReference.cache
+C:\Users\Elibeth Tapia Cruz\source\repos\BURBUJA, PUNTO 1\BURBUJA, PUNTO 1\obj\Debug\BURBUJA__PUNTO_1.Form1.resources
+C:\Users\Elibeth Tapia Cruz\source\repos\BURBUJA, PUNTO 1\BURBUJA, PUNTO 1\obj\Debug\BURBUJA__PUNTO_1.Properties.Resources.resources
+C:\Users\Elibeth Tapia Cruz\source\repos\BURBUJA, PUNTO 1\BURBUJA, PUNTO 1\obj\Debug\BURBUJA, PUNTO 1.csproj.GenerateResource.cache
+C:\Users\Elibeth Tapia Cruz\source\repos\BURBUJA, PUNTO 1\BURBUJA, PUNTO 1\obj\Debug\BURBUJA, PUNTO 1.csproj.CoreCompileInputs.cache
+C:\Users\Elibeth Tapia Cruz\source\repos\BURBUJA, PUNTO 1\BURBUJA, PUNTO 1\obj\Debug\BURBUJA, PUNTO 1.csproj.CopyComplete
+C:\Users\Elibeth Tapia Cruz\source\repos\BURBUJA, PUNTO 1\BURBUJA, PUNTO 1\obj\Debug\BURBUJA, PUNTO 1.exe
+C:\Users\Elibeth Tapia Cruz\source\repos\BURBUJA, PUNTO 1\BURBUJA, PUNTO 1\obj\Debug\BURBUJA, PUNTO 1.pdb
